@@ -1,0 +1,208 @@
+.customers-visit-omeg,
+.m {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 40px;
+}
+.m {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.customers-visit-omeg {
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  mix-blend-mode: normal;
+}
+.testimonial-list {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) 0 var(--padding-18xl);
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+  min-width: 235px;
+}
+.customers-visit-omeg1 {
+  align-self: stretch;
+  height: 168px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  color: var(--color-dimgray);
+  display: inline-block;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.testimonial-list1,
+.testimonial-list2 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  min-width: 235px;
+}
+.testimonial-list1 {
+  height: 335px;
+  padding: var(--padding-31xl) 0 var(--padding-186xl);
+  gap: var(--gap-29xl);
+}
+.testimonial-list2 {
+  padding: var(--padding-13xl) 0 var(--padding-18xl);
+  gap: var(--gap-47xl);
+}
+.customer-content,
+.customer-testimonial {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.customer-testimonial {
+  width: 1074px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: var(--gap-47xl);
+}
+.customer-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.bg5 {
+  height: 384px;
+  width: 1600px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.about,
+.hello-im-jishnue {
+  position: relative;
+  z-index: 1;
+}
+.about {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.hello-im-jishnue {
+  width: 717px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: calc(100% - 179px);
+}
+.customer-content-parent,
+.hero2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hero2 {
+  height: 384px;
+  background-color: var(--color-white);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-53xl) var(--padding-105xl) var(--padding-225xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-37xl);
+}
+.customer-content-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-81xl);
+  gap: var(--gap-21xl);
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .customer-testimonial {
+    gap: var(--gap-14xl);
+  }
+  .customer-content-parent {
+    padding-bottom: var(--padding-46xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .m {
+    font-size: var(--font-size-7xl);
+    line-height: 32px;
+  }
+  .testimonial-list1 {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-114xl);
+    box-sizing: border-box;
+  }
+  .customer-testimonial {
+    gap: var(--gap-base);
+  }
+  .about {
+    font-size: var(--font-size-26xl);
+  }
+  .hero2 {
+    padding: var(--padding-28xl) var(--padding-43xl) var(--padding-140xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .m {
+    font-size: var(--font-size-lgi);
+    line-height: 24px;
+  }
+  .customers-visit-omeg {
+    font-size: var(--font-size-base);
+    line-height: 32px;
+  }
+  .testimonial-list {
+    gap: var(--gap-5xl);
+  }
+  .customers-visit-omeg1 {
+    font-size: var(--font-size-base);
+    line-height: 32px;
+  }
+  .testimonial-list1 {
+    gap: var(--gap-5xl);
+  }
+  .testimonial-list2 {
+    gap: var(--gap-14xl);
+  }
+  .about {
+    font-size: var(--font-size-15xl);
+  }
+  .hello-im-jishnue {
+    font-size: var(--font-size-base);
+    line-height: 32px;
+  }
+  .hero2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .customer-content-parent {
+    gap: var(--gap-xl);
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+}

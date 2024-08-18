@@ -1,0 +1,247 @@
+.machine-learning-with1 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frame-child14,
+.frame-child15,
+.frame-child16 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 341px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.frame-child15,
+.frame-child16 {
+  left: 618px;
+}
+.frame-child16 {
+  left: 931px;
+}
+.neural-networks1 {
+  width: 167px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child17 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1209px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.k-means-clustering1 {
+  width: 194px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child18 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1513px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.nlp1 {
+  width: 41px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child19 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1665px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.html5-css31 {
+  height: 28px;
+  width: 144px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child20 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1528px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.rnn-cnn1 {
+  width: 103px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child21 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1315px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.sentiment-analysis1 {
+  width: 191px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child22 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1013px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.data-pre-processing1 {
+  height: 28px;
+  width: 204px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child23 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 697px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.javascript1 {
+  width: 112px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child24 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 474px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.nodejs-with-mysql1 {
+  width: 363px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-child25 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.machine-learning-with-python-group,
+.skill-instance-two {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.machine-learning-with-python-group {
+  width: 3481px;
+  justify-content: space-between;
+  padding: var(--padding-11xs) var(--padding-52xl) var(--padding-11xs) 0;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 387%;
+  gap: var(--gap-xl);
+}
+.skill-instance-two {
+  width: 900px;
+  overflow: hidden;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1425px) {
+  .machine-learning-with-python-group {
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-pre-processing1,
+  .html5-css31,
+  .javascript1,
+  .k-means-clustering1,
+  .machine-learning-with1,
+  .neural-networks1,
+  .nlp1,
+  .nodejs-with-mysql1,
+  .rnn-cnn1,
+  .sentiment-analysis1 {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+}

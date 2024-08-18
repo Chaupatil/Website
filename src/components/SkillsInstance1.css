@@ -1,0 +1,247 @@
+.machine-learning-with3 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frame-child38,
+.frame-child39,
+.frame-child40 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 341px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.frame-child39,
+.frame-child40 {
+  left: 618px;
+}
+.frame-child40 {
+  left: 931px;
+}
+.neural-networks3 {
+  width: 167px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child41 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1209px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.k-means-clustering3 {
+  width: 194px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child42 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1513px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.nlp3 {
+  width: 41px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child43 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 1665px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.html5-css33 {
+  height: 28px;
+  width: 144px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child44 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1528px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.rnn-cnn3 {
+  width: 103px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child45 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1315px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.sentiment-analysis3 {
+  width: 191px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child46 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 1013px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.data-pre-processing3 {
+  height: 28px;
+  width: 204px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child47 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 697px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.javascript3 {
+  width: 112px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child48 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 474px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.nodejs-with-mysql3 {
+  width: 363px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-child49 {
+  height: 100%;
+  width: 32px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: contain;
+}
+.group-div,
+.skills-instance {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.group-div {
+  width: 3481px;
+  justify-content: space-between;
+  padding: var(--padding-11xs) var(--padding-52xl) var(--padding-11xs) 0;
+  box-sizing: border-box;
+  position: relative;
+  flex-shrink: 0;
+  max-width: 387%;
+  gap: var(--gap-xl);
+}
+.skills-instance {
+  width: 900px;
+  overflow: hidden;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1425px) {
+  .group-div {
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-pre-processing3,
+  .html5-css33,
+  .javascript3,
+  .k-means-clustering3,
+  .machine-learning-with3,
+  .neural-networks3,
+  .nlp3,
+  .nodejs-with-mysql3,
+  .rnn-cnn3,
+  .sentiment-analysis3 {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+}
