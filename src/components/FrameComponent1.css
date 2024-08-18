@@ -50,15 +50,9 @@
   justify-content: flex-start;
   box-sizing: border-box;
   min-width: 235px;
-}
-.testimonial-list1 {
-  height: 335px;
+   height: 335px;
   padding: var(--padding-31xl) 0 var(--padding-186xl);
   gap: var(--gap-29xl);
-}
-.testimonial-list2 {
-  padding: var(--padding-31xl) 0 var(--padding-18xl);
-  gap: var(--gap-47xl);
 }
 .customer-content,
 .customer-testimonial {
